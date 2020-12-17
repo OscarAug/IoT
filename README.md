@@ -1,4 +1,6 @@
 # IoT---Kneron
+use Kneron to achieve camera detection and image detection on Ubuntu, connect it with Google Cloud Platform, send data to it and receive the command from GCP
+
 
 1: setup Kneron with virtual machine(Ubuntu)
 
